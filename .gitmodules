@@ -1,0 +1,6 @@
+[submodule "lightsout-server"]
+	path = lightsout-server
+	url = http://github.com/codefoster/lightsout-server
+[submodule "lightsout-client"]
+	path = lightsout-client
+	url = http://github.com/codefoster/lightsout-client
